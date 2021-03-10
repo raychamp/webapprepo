@@ -1,0 +1,6 @@
+
+*.class
+
+webapptask1v1/bin/messages_fr.properties
+
+webapptask1v1/target/task1-1.war
